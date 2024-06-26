@@ -3,4 +3,15 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Additional custom styles if needed */
+
+.container {
+  background-color: beige;
+  margin: auto;
+  width: 80%;
+}
+
+button {
+  width: 100%;
+  margin: auto;
+  background-color: bisque;
+}
